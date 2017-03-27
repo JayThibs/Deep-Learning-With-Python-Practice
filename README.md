@@ -7,4 +7,4 @@ We can see the that the model can accurately predict (96.32 % accuracy) which nu
 
 ![Predicted number vs actual number](https://github.com/JayThibs/Deep-Learning-With-Python-Projects/blob/master/Screen%20Shot%202017-03-25%20at%205.27.55%20PM.png "Predicted number vs actual number")
 
-2. [Learning how to use pure Theano (without Keras)](https://github.com/JayThibs/Deep-Learning-With-Python-Projects/blob/master/Theano%20Intro.ipynb "Learning how to use pure Theano (without Keras)")
+2. [Learn how to use pure Theano (without Keras)](https://github.com/JayThibs/Deep-Learning-With-Python-Projects/blob/master/Theano%20Intro.ipynb "Learning how to use pure Theano (without Keras)")
