@@ -11,4 +11,4 @@ We can see the that the model can accurately predict (96.32 % accuracy) which nu
 
 3. [Optimizing a simple model in pure theano](https://github.com/JayThibs/Deep-Learning-With-Python-Projects/blob/master/Optimizing%20a%20simple%20model%20in%20pure%20theano.ipynb "Optimizing a simple model in pure theano")
 
-4. [How to use Grid Search with Keras](https://github.com/JayThibs/Deep-Learning-With-Python-Projects/blob/master/Optimizing%20a%20simple%20model%20in%20pure%20theano.ipynb "How to use Grid Search with Keras")
+4. [How to use Grid Search with Keras](https://github.com/JayThibs/Deep-Learning-With-Python-Projects/blob/master/Grid%20Search%20with%20Keras.ipynb "How to use Grid Search with Keras")
